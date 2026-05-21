@@ -1,0 +1,12 @@
+{
+  "name": "check",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'Build is handled by the source repository'",
+    "lint": "echo 'No linting configured for deployment repository'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  }
+}
