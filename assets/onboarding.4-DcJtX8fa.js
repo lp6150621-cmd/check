@@ -1,0 +1,1 @@
+import{j as o}from"./index-45UUfWf0.js";import{O as e}from"./OnboardingStep-CN4xL8F6.js";import"./Ads-CyA8xYeo.js";const m=()=>o.jsx(e,{stepNum:4,total:6,question:"Pick a vibe",options:[{emoji:"😎",label:"Chill"},{emoji:"🔥",label:"Spicy"},{emoji:"🥳",label:"Fun"},{emoji:"🤫",label:"Mysterious"}],nextTo:"/onboarding/5"});export{m as component};

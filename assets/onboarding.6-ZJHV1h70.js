@@ -1,0 +1,1 @@
+import{j as o}from"./index-45UUfWf0.js";import{O as t}from"./OnboardingStep-CN4xL8F6.js";import"./Ads-CyA8xYeo.js";const m=()=>o.jsx(t,{stepNum:6,total:6,question:"What type of girls do you like?",options:[{emoji:"👠",label:"Slim"},{emoji:"🍑",label:"Curvy"},{emoji:"💪",label:"Athletic"}],nextTo:"/result"});export{m as component};

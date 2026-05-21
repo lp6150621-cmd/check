@@ -1,0 +1,1 @@
+import{j as o}from"./index-45UUfWf0.js";import{O as e}from"./OnboardingStep-CN4xL8F6.js";import"./Ads-CyA8xYeo.js";const n=()=>o.jsx(e,{stepNum:2,total:6,question:"How old are you?",options:[{emoji:"🔥",label:"18 – 24"},{emoji:"✨",label:"25 – 34"},{emoji:"⚡",label:"35 – 44"},{emoji:"🌟",label:"45+"}],nextTo:"/onboarding/3"});export{n as component};

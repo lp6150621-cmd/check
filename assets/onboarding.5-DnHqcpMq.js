@@ -1,0 +1,1 @@
+import{j as o}from"./index-45UUfWf0.js";import{O as t}from"./OnboardingStep-CN4xL8F6.js";import"./Ads-CyA8xYeo.js";const s=()=>o.jsx(t,{stepNum:5,total:6,question:"What kind of girls attract you?",options:[{emoji:"👱‍♀️",label:"Blondes"},{emoji:"👩",label:"Brunettes"},{emoji:"👩‍🦰",label:"Redheads"}],nextTo:"/onboarding/6"});export{s as component};
